@@ -22,9 +22,13 @@ Database Schema
 The following entities are used in this project:
 
 User: Represents a user of the system.
+
 Movie: Represents a movie, with details like title and genre.
+
 MovieShow: Represents a specific showtime for a movie.
+
 Seat: Represents a seat in a movie theater.
+
 Booking: Represents a booking made by a user.
 
 Setup Instructions:
