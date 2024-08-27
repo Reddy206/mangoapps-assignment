@@ -27,15 +27,6 @@ MovieShow: Represents a specific showtime for a movie.
 Seat: Represents a seat in a movie theater.
 Booking: Represents a booking made by a user.
 
-ER Diagram:
-
-User <----> Booking <----> Movie
-           ^              ^      
-           |              |      
-           |              |      
-           v              v      
-          Seat        MovieShow
-
 Setup Instructions:
 
 Prerequisites:
